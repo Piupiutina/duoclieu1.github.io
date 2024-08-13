@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2250">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="62695bea35864ff8a3152aaf9783bde1-oa-1" class="qshape">
+   <rect height="159.09091" width="777.27273" y="568.18182" x="1159.09091" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="140.90909" width="440.90909" y="763.63636" x="1013.63636" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="159.09091" width="418.18182" y="750" x="1495.45455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="131.81818" width="159.09092" y="763.63636" x="1950" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="90" y="863.63636" x="2404.54545" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">(hiếm khi thấy)</text>
+  </g>
+ </g>
+</svg>

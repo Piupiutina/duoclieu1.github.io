@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2250">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <g id="svg_4">
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="90" id="svg_1" y="1427.27274" x="2418.18182" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">mạnh nhất</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="90" id="svg_2" y="1404.54546" x="431.81818" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Yếu nhất</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="90" id="svg_3" y="881.81818" x="2254.54545" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Trung gian</text>
+  </g>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="643ee617334148dcb5c599de005c284a-oa-1">
+   <rect height="113.63636" width="459.09091" y="1304.54545" x="195.45455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#000000"/>
+   <rect height="154.54545" width="504.54545" y="1295.45455" x="2154.54545" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#000000"/>
+   <rect height="168.18182" width="468.18182" y="754.54545" x="2018.18182" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#000000"/>
+  </g>
+ </g>
+</svg>

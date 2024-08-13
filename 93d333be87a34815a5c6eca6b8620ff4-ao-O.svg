@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2250">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g display="inline">
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="80" id="svg_1" y="622.72727" x="1363.63636" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Soi ở UV 365nm =&gt; cho màu huỳnh quang</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="93d333be87a34815a5c6eca6b8620ff4-ao-1">
+   <rect height="118.18182" width="140.90909" y="527.27273" x="945.45455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="122.72727" width="686.36364" y="531.81818" x="1463.63636" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>

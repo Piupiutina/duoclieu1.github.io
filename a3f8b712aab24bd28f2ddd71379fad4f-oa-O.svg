@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2250">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="90" id="svg_9" y="1931.81818" x="404.54545" stroke-width="0" fill="#000000">1,2 dihydroxy AQ</text>
+  <text style="cursor: move;" id="svg_10" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="90" y="1965.90906" x="1398.61575" stroke-width="0" fill="#000000">1,8 dihydroxy AQ</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="a3f8b712aab24bd28f2ddd71379fad4f-oa-1">
+   <rect height="131.81818" width="627.27273" y="1072.72727" x="309.09091" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="109.09091" width="495.45455" y="1081.81818" x="1272.72727" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="118.18182" width="277.27273" y="1077.27273" x="2536.36364" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="a3f8b712aab24bd28f2ddd71379fad4f-oa-2">
+   <rect height="145.45455" width="759.09091" y="1827.27273" x="40.90909" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="622.72727" width="845.45455" y="1209.09091" x="36.36364" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="a3f8b712aab24bd28f2ddd71379fad4f-oa-3">
+   <rect height="136.36364" width="763.63636" y="1872.72727" x="1009.09091" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="640.90909" width="845.45455" y="1209.09091" x="1013.63636" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="a3f8b712aab24bd28f2ddd71379fad4f-oa-4">
+   <rect height="100" width="604.54545" y="2059.09091" x="2231.81818" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" height="818.18182" width="922.72727" y="1218.18181" x="2081.81818" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>

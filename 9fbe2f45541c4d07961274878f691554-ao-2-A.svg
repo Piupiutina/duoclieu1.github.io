@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2250">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g display="inline">
+  <title>Labels</title>
+  <text fill="#000000" stroke-width="0" x="468.18183" y="1281.81819" id="svg_15" font-size="80" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">- Phân cực kém</text>
+  <text id="svg_16" fill="#000000" stroke-width="0" x="1712.86934" y="1274.99361" font-size="80" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">- Phân cực tốt</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="80" id="svg_17" y="1468.18182" x="618.18182" stroke-width="0" fill="#000000">=&gt; tan trong nc sôi, EtOH, MeOH</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="80" id="svg_18" y="1390.90909" x="1795.45453" stroke-width="0" fill="#000000">=&gt; tan trong Dmhc</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <g id="9fbe2f45541c4d07961274878f691554-ao-1"/>
+  
+ </g>
+</svg>

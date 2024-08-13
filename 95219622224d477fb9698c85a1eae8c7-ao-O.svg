@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2250">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="95219622224d477fb9698c85a1eae8c7-ao-1" y="-9.26362" x="-502.21912" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Nêu tên hợp chất và thuộc phân nhóm nào?</text>
+  
+  <g id="95219622224d477fb9698c85a1eae8c7-ao-2">
+   <g>
+    <rect stroke="#2D2D2D" height="77.27273" width="331.81818" y="1159.09091" x="113.63636" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+    <rect height="86.36364" width="290.90909" y="1150" x="945.45455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="95.45455" width="313.63636" y="1168.18182" x="1695.45455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="95.45455" width="445.45455" y="1163.63636" x="2472.72727" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <rect height="122.72727" width="1340.90909" y="1540.90909" x="1581.81818" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>
